@@ -38,7 +38,7 @@ body {
   .images {
     width: 250px;
     height: auto;
-    margin: auto;
+    margin: 20px;
   }
 
   .page-footer {
